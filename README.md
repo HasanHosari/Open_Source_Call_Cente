@@ -1,4 +1,4 @@
-# Open_Source_Call_Cente
+# Open_Source_Call_Center
 
 Corporate Environment Management & Lab Call Center Guide 🖥️📞
 
