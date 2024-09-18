@@ -140,5 +140,3 @@ This project would not have been possible without you. Thank you for sharing you
 License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For more details, refer to the LICENSE file.
-
-Feel free to update the YouTube playlist and modify any sections as needed for your specific environment. This README provides a clear and detailed framework for both corporate IT infrastructure and call center management using a combination of Windows and open-source solutions.
